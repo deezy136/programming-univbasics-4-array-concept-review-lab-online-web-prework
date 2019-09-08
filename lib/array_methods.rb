@@ -19,5 +19,5 @@ end
 
 valley = [5,4,3,2,1,0,1,2,3,4,5]
 find_max_value(valley)
-find_element_index(8)
+find_element_index(valley, 9)
 find_min_value(valley)
