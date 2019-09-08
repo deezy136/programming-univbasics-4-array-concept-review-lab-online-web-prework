@@ -16,7 +16,8 @@ def find_min_value(array)
    min_value_in_array = array.min
 end
 
+
+valley = [5,4,3,2,1,0,1,2,3,4,5]
 find_max_value(valley)
 find_element_index(8)
 find_min_value(valley)
-valley = [5,4,3,2,1,0,1,2,3,4,5]
